@@ -11,7 +11,7 @@ body {
               url("images/laptop.jpg");
   background-size: cover;
   background-position: center;
-  height: 85vh; /* ↑ Bigger hero section */
+  height: 92vh; /* ↑ Bigger hero section */
   display: flex;
   align-items: center;
   justify-content: center;
